@@ -29,9 +29,15 @@ const contactInfo = [
     href: 'tel:+6281234567890',
   },
   {
+    icon: Phone,
+    label: 'azzah',
+    value: 'jalan kasuari',
+    href: '#',
+  },
+  {
     icon: MapPin,
     label: 'Lokasi',
-    value: 'Jakarta, Indonesia',
+    // value: 'Jakarta, Indonesia',
     href: '#',
   },
 ];
